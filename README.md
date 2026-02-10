@@ -33,8 +33,8 @@ Ingeniero con más de 10 años de trayectoria en soporte técnico especializado 
 - **Herramientas de Soporte:** ServiceDesk, Jira, Landesk, AnyDesk y Virtualización (VMware/VirtualBox).
 
 ### 📂 Proyectos Destacados (Bootcamp TripleTen)
-- **[Plataforma Web Interactiva](https://github.com/cazador0587):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
-- **[Gestor de Gastos Dinámico](https://github.com/cazador0587):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
+- **[Plataforma Web Interactiva](https://cazador0587.github.io/web_project_around_es/):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
+- **[Gestor de Gastos Dinámico](https://cazador0587.github.io/web_project_expenses_es/):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
 
 ### 📊 Certificaciones y Diplomados
 - Diplomado en **Seguridad Aplicada a la Ingeniería de Software** (UNIR).
