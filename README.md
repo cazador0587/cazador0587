@@ -32,6 +32,9 @@ Ingeniero con más de 10 años de trayectoria en soporte técnico especializado 
 - **Infraestructura & Seguridad:** Fortinet (Firewalls/Switches), Active Directory y Redes TCP/IP.
 - **Herramientas de Soporte:** ServiceDesk, Jira, Landesk, AnyDesk y Virtualización (VMware/VirtualBox).
 
+### 🚀 Mi Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,git,github,vscode,mysql,windows,linux)](https://skillicons.dev)
+
 ### 📂 Proyectos Destacados (Bootcamp TripleTen)
 - **[Plataforma Web Interactiva](https://cazador0587.github.io/web_project_around_es/):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
 - **[Gestor de Gastos Dinámico](https://cazador0587.github.io/web_project_expenses_es/):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
