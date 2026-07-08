@@ -60,10 +60,8 @@ Ingeniero con más de 10 años de trayectoria en soporte técnico especializado 
 
 ---
 
-### 📫 Conéctate conmigo
-- **LinkedIn:** [Fernando Salvador Ruiz](https://www.linkedin.com/in/fernando-salvador-ruiz-53602443/)
-- **Email:** [cazador55@hotmail.com](mailto:cazador55@hotmail.com)
-- **Ubicación:** Villahermosa, Tabasco
+📫 **Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/fernando-salvador-ruiz-53602443/) | cazador55@hotmail.com | Villahermosa, Tabasco
 
 ---
+
 *"Enfocado en la continuidad operativa y la optimización de procesos tecnológicos."*
