@@ -44,7 +44,7 @@ Ingeniero con más de 10 años de trayectoria en soporte técnico especializado 
 ---
 
 ### 📂 Proyectos Destacados (Bootcamp TripleTen)
-- **[Sistema de Inventario de Equipos TI](https://sgat-fsalvador.mooo.com/register)**
+- **[Sistema de Inventario de Equipos TI](https://sgat-fsalvador.mooo.com/register):**
 - **[Plataforma Web Interactiva](https://cazador0587.github.io/web_project_around_es/):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
 - **[Gestor de Gastos Dinámico](https://cazador0587.github.io/web_project_expenses_es/):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
 - **[homeland](https://cazador0587.github.io/web_project_homeland/)**
