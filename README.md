@@ -44,12 +44,22 @@ Ingeniero con más de 10 años de trayectoria en soporte técnico especializado 
 ---
 
 ### 📂 Proyectos Destacados (Bootcamp TripleTen)
-- **[Sistema de Inventario de Equipos TI](https://sgat-fsalvador.mooo.com/register):**
-- **[Plataforma Web Interactiva](https://cazador0587.github.io/web_project_around_es/):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
-- **[Gestor de Gastos Dinámico](https://cazador0587.github.io/web_project_expenses_es/):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
-- **[homeland](https://cazador0587.github.io/web_project_homeland/)**
-- **[Cafeteria](https://cazador0587.github.io/web_project_coffeeshop/)**
-- **[Libreria](https://cazador0587.github.io/web_project_library_es/)**
+**[Sistema de Inventario de Equipos TI](https://sgat-fsalvador.mooo.com/register):**
+  - 🎯 Objetivo: Desarrollar una plataforma web centralizada para el control operativo e inventario de activos tecnológicos de TI.
+
+  - 🛠️ Acciones clave: Implementación de rutas de registro de usuarios, manejo de sesiones y diseño de base de datos para la persistencia del estado de los equipos.
+
+  - 📈 Resultado/Impacto: Optimización en la administración de hardware, reduciendo errores manuales de registro y permitiendo un control de stock transparente para el negocio.
+
+**[Plataforma Web Interactiva](https://cazador0587.github.io/web_project_around_es/):** Interfaz dinámica con consumo de APIs asíncronas, manipulación del DOM y diseño responsivo.
+
+**[Gestor de Gastos Dinámico](https://cazador0587.github.io/web_project_expenses_es/):** Aplicación con lógica funcional compleja para manejo de presupuestos y procesamiento de datos en tiempo real.
+
+**[homeland](https://cazador0587.github.io/web_project_homeland/):** Landing page responsiva orientada al sector inmobiliario aplicando semántica HTML5 y CSS avanzado.
+
+**[Cafeteria](https://cazador0587.github.io/web_project_coffeeshop/):** Maquetación estática optimizada utilizando metodologías modernas de diseño adaptable.
+
+**[Libreria](https://cazador0587.github.io/web_project_library_es/):** Interfaz fluida enfocada en la experiencia de usuario para la navegación de catálogos digitales.
 
 ---
 
