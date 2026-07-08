@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # Hola, soy Fernando Salvador Ruiz 👋 
-### Ingeniero de Sistemas | MSC. en Ingeniería de Software | Full Stack Developer & QA en formación
+### Ingeniero de Sistemas | Master en Ingeniería de Software | Full Stack Developer & QA
 
-Ingeniero con más de 10 años de trayectoria en soporte técnico especializado e infraestructura. Mi enfoque combina la estabilidad operativa y la ciberseguridad con la creación de soluciones digitales modernas a través del desarrollo de software.
+Ingeniero con más de 10 años de trayectoria en soporte técnico especializado e infraestructura. Mi enfoque combina la estabilidad operativa y la ciberseguridad con la creación de soluciones digitales modernas a través del desarrollo de software robusto, escalable y con altos estándares de calidad.
+
+[Descarga mi CV Aquí -> (https://docs.google.com/document/d/1818pnmUsAKXK6Wk0tj2nVxOhupQWJlQE/edit?usp=drive_link&ouid=103524294809055832698&rtpof=true&sd=true)]
 
 ---
 
